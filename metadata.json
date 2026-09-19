@@ -1,0 +1,6 @@
+{
+  "name": "PromptView",
+  "description": "Premium AI Prompt marketplace, directory, image toolkit and AI test lab with dynamic admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
